@@ -1,0 +1,66 @@
+{
+  "id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in jluis-rodriguez/RealBiblioteca project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 659,
+    "id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001/canvas/",
+    "label" : {
+      "none" : [ "0001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 21,
+              "height" : 29
+            }, {
+              "width" : 42,
+              "height" : 57
+            }, {
+              "width" : 83,
+              "height" : 113
+            }, {
+              "width" : 165,
+              "height" : 226
+            }, {
+              "width" : 330,
+              "height" : 452
+            }, {
+              "width" : 659,
+              "height" : 904
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 659,
+            "@id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 904
+          } ],
+          "format" : "image/jpeg",
+          "width" : 659,
+          "id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 904
+        },
+        "target" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001/canvas/"
+      } ]
+    } ],
+    "height" : 904
+  } ]
+}
