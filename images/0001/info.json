@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 29
+  }, {
+    "width" : 42,
+    "height" : 57
+  }, {
+    "width" : 83,
+    "height" : 113
+  }, {
+    "width" : 165,
+    "height" : 226
+  }, {
+    "width" : 330,
+    "height" : 452
+  }, {
+    "width" : 659,
+    "height" : 904
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 659,
+  "@id" : "https://jluis-rodriguez.github.io/RealBiblioteca/images/0001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 904
+}
